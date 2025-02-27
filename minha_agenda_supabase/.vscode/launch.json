@@ -1,0 +1,27 @@
+{
+   
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "minha_agenda_supabase",
+            "cwd": "minha_agenda_supabase",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "minha_agenda_supabase (profile mode)",
+            "cwd": "minha_agenda_supabase",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "minha_agenda_supabase (release mode)",
+            "cwd": "minha_agenda_supabase",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
